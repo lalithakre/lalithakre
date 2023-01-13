@@ -1,8 +1,6 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Lalit Thakre</h1>
 <h3 align="center">A passionate flutter developer from India</h3>
-
-<p align="left"> <img src="https://imgs.search.brave.com/c8_0XPWFxOkjV4XygN-P7B8mQym3hZjV5HOATClD0Ek/rs:fit:746:225:1/g:ce/aHR0cHM6Ly90c2U0/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC4t/RFMzU3FqcnhOaGN3/Q1VrZnVUMVJ3SGFF/dCZwaWQ9QXBp" alt="coding" width ="400" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lalithakre" alt="lalithakre" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/lalit03thakre" target="blank"><img src="https://img.shields.io/twitter/follow/lalit03thakre?logo=twitter&style=for-the-badge" alt="lalit03thakre" /></a> </p>
@@ -17,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/lalit03thakre" target="blank"><img align="center" src="https://imgs.search.brave.com/c8_0XPWFxOkjV4XygN-P7B8mQym3hZjV5HOATClD0Ek/rs:fit:746:225:1/g:ce/aHR0cHM6Ly90c2U0/Lm1tLmJ" alt="lalit03thakre" height="30" width="40" /></a>
+<a href="https://twitter.com/lalit03thakre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lalit03thakre" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/lalit-thakre-706667233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lalit-thakre-706667233/" height="30" width="40" /></a>
 <a href="https://kaggle.com/lalit thakre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="lalit thakre" height="30" width="40" /></a>
 <a href="https://fb.com/lalit thakre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lalit thakre" height="30" width="40" /></a>
