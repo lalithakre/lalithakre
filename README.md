@@ -1,15 +1,15 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Lalit Thakre</h1>
-<h3 align="center">A passionate flutter developer from India</h3>
+<h3 align="center">A passionate flutter developer from Bhopal Madhya Pradesh India</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lalithakre" alt="lalithakre" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/lalit03thakre" target="blank"><img src="https://img.shields.io/twitter/follow/lalit03thakre?logo=twitter&style=for-the-badge" alt="lalit03thakre" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Flutter.**
 
 - 👨‍💻 All of my projects are available at [https://lalithakre.github.io/Personal-Portfolio-project/](https://lalithakre.github.io/Personal-Portfolio-project/)
 
-- 💬 Ask me about **Machine Learning and flutter development**
+- 💬 Ask me about **Machine Learning and flutter development.**
 
 - 📫 How to reach me **lalit03thakre@gmail.com**
 
