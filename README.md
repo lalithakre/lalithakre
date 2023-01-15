@@ -3,10 +3,6 @@
 </div>
 <h1 align="center">Hi 👋, I'm Lalit Thakre</h1>
 <h3 align="center">A passionate flutter developer from Bhopal Madhya Pradesh India</h3>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
 
 - 🌱 I’m currently learning **Flutter.**
 
@@ -15,9 +11,11 @@
 - 💬 Ask me about **C++, Java, Dart, Machine Learning, Front End Web and flutter development.**
 
 - 📫 How to reach me **lalit03thakre@gmail.com**
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lalithakre" alt="lalithakre" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/lalit03thakre" target="blank"><img src="https://img.shields.io/twitter/follow/lalit03thakre?logo=twitter&style=for-the-badge" alt="lalit03thakre" /></a> </p>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lalithakre" alt="lalithakre" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
