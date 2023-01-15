@@ -1,4 +1,6 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 <h1 align="center">Hi 👋, I'm Lalit Thakre</h1>
 <h3 align="center">A passionate flutter developer from Bhopal Madhya Pradesh India</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lalithakre" alt="lalithakre" /></a> </p>
@@ -9,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://lalithakre.github.io/Personal-Portfolio-project/](https://lalithakre.github.io/Personal-Portfolio-project/)
 
-- 💬 Ask me about **Machine Learning and flutter development.**
+- 💬 Ask me about **C++, Java, Dart, Machine Learning, Front End Web and flutter development.**
 
 - 📫 How to reach me **lalit03thakre@gmail.com**
 
