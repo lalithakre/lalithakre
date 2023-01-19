@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Flutter.**
 
-- 👨‍💻 All of my projects are available at [https://lalithakre.github.io/Personal-Portfolio-project/](https://lalithakre.github.io/Personal-Portfolio-project/)
+- 👨‍💻 All of my projects are available at [https://lalithakre.github.io/Portfolio/](https://lalithakre.github.io/Personal-Portfolio-project/)
 
 - 💬 Ask me about **C++, Java, Dart, Machine Learning, Front End Web and flutter development.**
 
