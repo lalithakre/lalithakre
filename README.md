@@ -3,7 +3,7 @@
 </div>
 <h1 align="center">Hi 👋, I'm Lalit Thakre</h1>
 <h3 align="center">A passionate flutter developer from Bhopal Madhya Pradesh India</h3>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=luckydarwai&label=Profile%20views&color=0e75b6&style=flat" alt="luckydarwai" /> </p>
 - 🌱 I’m currently learning **Flutter.**
 
 - 👨‍💻 All of my projects are available at [https://lalithakre.github.io/Portfolio/](https://lalithakre.github.io/Portfolio/)
